@@ -1,0 +1,5 @@
+django
+djangorestframework
+django-allauth
+pillow
+psycopg2
